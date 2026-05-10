@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Telegram sessions
+*.session
+*.session-journal
+
+# Logs & runtime
+*.log
+heartbeat.txt
+chain_data.json
+trade_state.json
+fxd_history.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
