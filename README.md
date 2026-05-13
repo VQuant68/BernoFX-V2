@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/Status-Production-00C853?style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <a href="docs/BernoFX_V2_Report.pdf"><strong>📄 Tải Báo Cáo PDF</strong></a>
+</p>
+
 ---
 
 ## 📖 Overview
