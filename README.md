@@ -84,6 +84,13 @@
 
 > Signals are automatically formatted in professional Italian with emoji, pip calculations, and reply-linked follow-ups.
 
+### BernøFx Trinity — VIP Channel (Live)
+<p align="center">
+  <img src="docs/telegram_vip_live.png" width="500" alt="BernøFx Trinity VIP"/>
+</p>
+
+> Live signal forwarding: Signal → TP Approaching → SL Hit — all reply-linked to original signal.
+
 ---
 
 ## ✨ Key Features
