@@ -77,13 +77,6 @@
 
 > **Balance: €3,150** · EA: BernoFX V2 · Status: Active · Lot: 0.30
 
-### Telegram Signal Output (Italian)
-<p align="center">
-  <img src="docs/telegram_signals.png" width="400" alt="Telegram Signals"/>
-</p>
-
-> Signals are automatically formatted in professional Italian with emoji, pip calculations, and reply-linked follow-ups.
-
 ### BernøFx Trinity — VIP Channel (Live)
 <p align="center">
   <img src="docs/telegram_vip_live.png" width="500" alt="BernøFx Trinity VIP"/>
