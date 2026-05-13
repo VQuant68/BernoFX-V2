@@ -61,14 +61,21 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Live Screenshots
 
-### MT5 Expert Advisor Dashboard
+### MT5 — Account $100K (XM Global)
 <p align="center">
-  <img src="docs/mt5_dashboard.png" width="700" alt="MT5 Dashboard"/>
+  <img src="docs/mt5_100k_live.png" width="700" alt="MT5 100K Account"/>
 </p>
 
-> The EA displays real-time status including active trades, P&L, lot size, and draws TP1/TP2/TP3 lines directly on the chart.
+> **Balance: €31,705** · EA: BernoFX V2 · Status: Active · Lot: 3.00 · Triple TP lines on chart
+
+### MT5 — Account $10K (XM Global)
+<p align="center">
+  <img src="docs/mt5_10k_live.png" width="700" alt="MT5 10K Account"/>
+</p>
+
+> **Balance: €3,150** · EA: BernoFX V2 · Status: Active · Lot: 0.30
 
 ### Telegram Signal Output (Italian)
 <p align="center">
